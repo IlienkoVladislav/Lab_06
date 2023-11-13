@@ -1,0 +1,2 @@
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_06\Task_03\obj\Debug\Task_03.csproj.AssemblyReference.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_06\Task_03\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
